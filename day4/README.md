@@ -77,4 +77,4 @@ after： ['1-2*-1388335.84762']
 
 三、流程图如下：
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/wushank/python/blob/master/day4/calculate.png)
