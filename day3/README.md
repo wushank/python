@@ -31,25 +31,29 @@ python之haproxy配置文件操作（第三天）
 
 四、流程图如下：
 
+![image](https://github.com/wushank/python/blob/master/day3/haproxy.png)
 
 五、效果图：
 
 1、  初始菜单直接显示backend列表，并列出选择菜单：
 
-  
+![image](http://images2015.cnblogs.com/blog/857962/201601/857962-20160122001041172-1617022873.png)
 
 2、  输入1，选择查询菜单，并输入backend的名称或编号，均可，并展示对应名称下的server信息：
 
+![image](http://images2015.cnblogs.com/blog/857962/201601/857962-20160122001052750-1997978501.png)
 
 3、  输入b可以返回上层菜单，输入2进入添加server条目：
 
+![image](http://images2015.cnblogs.com/blog/857962/201601/857962-20160122001108750-1894582388.png)
 
 4、  输入server对应的name，address，weight，maxconn，并对有效性进行判断：
 
+![image](http://images2015.cnblogs.com/blog/857962/201601/857962-20160122001124359-667217838.png)
 
        添加成功后查看结果：
 
- 
+![image](http://images2015.cnblogs.com/blog/857962/201601/857962-20160122001145265-1848211997.png) 
 
 注：
 
@@ -63,17 +67,19 @@ weight和maxconn必须输入数字，大小暂时没有限制
 
 5、 输入b可以返回上层菜单，输入3进入修改server条目，并对www.oldboy.org下的sky条目进行修改：
 
+![image](http://images2015.cnblogs.com/blog/857962/201601/857962-20160122001230281-794901851.png)
 
           同样对输入的server有效性进行判断，最后确认回写配置文件，查看修改结果：
 
+![image](http://images2015.cnblogs.com/blog/857962/201601/857962-20160122001258187-944532756.png)
 
 6、  输入b可以返回上层菜单，输入4进入删除server条目，并对指定条目进行修改：
 
- 
+![image](http://images2015.cnblogs.com/blog/857962/201601/857962-20160122001329703-485219958.png)
 
 7、输入b可以返回上层菜单，输入5，即可退出程序。
 
- 
+
 
 六、针对python2.7和python3.4的代码区别：
 
