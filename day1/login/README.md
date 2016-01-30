@@ -23,5 +23,6 @@ jack 12
 
  
 只针对帐号文件里的用户进行判断并锁定，针对用户和密码各有三次错误重试机会。
-详情见流程图
-![image](https://github.com/wushank/python/day1/login.png)
+
+详情见流程图:
+![image](https://github.com/wushank/python/blob/master/day1/login/login.png)
