@@ -21,7 +21,7 @@ mobi  123 80000
  
 
 二、流程图如下：
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/wushank/python/blob/master/day2/shop_cart.png)
 
 三、效果图展示：
 
