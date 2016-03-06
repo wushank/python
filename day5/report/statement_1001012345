@@ -1,0 +1,9 @@
+{"201602620160306": {"startdate": "2016-02-6 00:00:00", "pdate": "2016-04-10", "billdate": "2016-03-06", "total": 463.0, "enddate": "2016-03-07 00:00:00", "isfinished": 0, "interest": 0, "payed": 0}}
+{"201602620160306": {"startdate": "2016-02-6 00:00:00", "payed": 0, "enddate": "2016-03-07 00:00:00", "interest": 0, "isfinished": 0, "total": 463.0, "billdate": "2016-03-06", "pdate": "2016-04-10"}}
+{"201602620160306": {"billdate": "2016-03-06", "startdate": "2016-02-6 00:00:00", "enddate": "2016-03-07 00:00:00", "total": 463.0, "isfinished": 0, "payed": 0, "pdate": "2016-04-10", "interest": 0}}
+{"201602620160306": {"startdate": "2016-02-6 00:00:00", "interest": 0, "billdate": "2016-03-06", "enddate": "2016-03-07 00:00:00", "isfinished": 0, "total": 463.0, "pdate": "2016-04-10", "payed": 0}}
+{"201602620160306": {"enddate": "2016-03-07 00:00:00", "interest": 0, "pdate": "2016-04-10", "billdate": "2016-03-06", "total": 463.0, "startdate": "2016-02-6 00:00:00", "payed": 0, "isfinished": 0}}
+{"201602620160306": {"isfinished": 0, "pdate": "2016-04-10", "billdate": "2016-03-06", "enddate": "2016-03-07 00:00:00", "interest": 0, "total": 463.0, "startdate": "2016-02-6 00:00:00", "payed": 0}}
+{"201602620160306": {"billdate": "2016-03-06", "isfinished": 0, "enddate": "2016-03-07 00:00:00", "startdate": "2016-02-6 00:00:00", "interest": 0, "total": 463.0, "payed": 0, "pdate": "2016-04-10"}}
+{"201602620160306": {"billdate": "2016-03-06", "enddate": "2016-03-07 00:00:00", "pdate": "2016-04-10", "payed": 0, "total": 463.0, "interest": 0, "startdate": "2016-02-6 00:00:00", "isfinished": 0}}
+{"201602620160306": {"payed": 0, "pdate": "2016-04-10", "total": 463.0, "startdate": "2016-02-6 00:00:00", "interest": 0, "isfinished": 0, "enddate": "2016-03-07 00:00:00", "billdate": "2016-03-06"}}
